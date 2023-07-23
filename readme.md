@@ -8,8 +8,6 @@ Use [ImageResizer](https://github.com/Hawkynt/2dimagefilter) to process videos.
 + HQX
 + LQX
 + NearestNeighbor
-+ Bilinear
-+ Bicubic
 + and others... (see [ImageResizer wiki](https://code.google.com/archive/p/2dimagefilter/wikis/ImageScaling.wiki))
 
 ### Usage:
